@@ -40,10 +40,11 @@ Das sieht im Browser so aus:
 
 ## Verifikation
 
-Im Code kann man sehen, wie die Information der Bilder über die "ProppertyActionListener" in eine "Bean Klasse" weitergegeben werden. Dort werden sie via "Setter" gespeichert, um danach auf der zweiten Seite via "Getter" ausgelesen werden.
+Im Code kann man sehen, wie die Information der Bilder über die "ProppertyActionListener" in eine "Bean Klasse" weitergegeben werden. Ich habe gelernt, dass die "values" via "Setter" gespeichert und danach auf der zweiten Seite via "Getter" ausgelesen werden können.
 
 # Reflektion zum Arbeitsprozess
 
-Das Prinzip des "ProppertyActionListener" habe ich schnell begriffen und auch umsetzen können. Leider habe ich es nicht geschafft, den "ProppertyActionListener" bei "Radiobuttons" oder "Dropdownauswahlen" zu verwenden. Damit hätte ich mein Projekt noch etwas dynamischer gestalten können. 
+Das Prinzip des "ProppertyActionListener" habe ich schnell begriffen und auch umsetzen können. 
+Leider habe ich es nicht geschafft, den "ProppertyActionListener" bei "Radiobuttons" oder "Dropdownauswahlen" zu verwenden. Damit hätte ich mein Projekt noch etwas dynamischer gestalten können. 
 
 **VBV**: Bei Gelegenheit werde ich mich bei unserem Lehrer darüber informieren, ob, und wenn ja wie, ich den "ProppertyChangeListener" auch für "Radiobuttons" und "Dropdownauswahlen" verwenden kann.
